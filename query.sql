@@ -1,0 +1,1 @@
+select ProductID, Name, Color, ListPrice, Weight from [SalesLT].[Product]
